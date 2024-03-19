@@ -1,0 +1,3 @@
+[submodule "darzapacketlib"]
+	path = darzapacketlib
+	url = https://github.com/lexsai/darzapacketlib.git
